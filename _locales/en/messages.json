@@ -1,0 +1,14 @@
+{
+    "locale" : {
+        "message" : "en_us"
+    },
+    "name": {
+      "message": "Qwant - Search Engine",
+      "description": "Name of the extension."
+    },
+  
+    "description": {
+      "message": "Adds Qwant as the default search engine without any additional fluff",
+      "description": "Description of the extension."
+    }
+}
